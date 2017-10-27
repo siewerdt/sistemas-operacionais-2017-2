@@ -1,0 +1,17 @@
+a. Algoritmo: First-Come-First-Served
+
+b. Tempo total de processamento: 99
+
+c. Percentual de utilizacao da CPU: 1
+
+d. Media throughput: 0
+
+e. Media turnaround: 6
+
+f. Media tempo de espera: 6
+
+g. Media tempo de resposta: 6
+
+h. Media troca de contexto: 0
+
+i. Numero de processos executados: 0

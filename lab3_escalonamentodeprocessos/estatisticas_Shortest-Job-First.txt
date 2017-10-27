@@ -1,0 +1,17 @@
+a. Algoritmo: Shortest-Job-First
+
+b. Tempo total de processamento: -24849
+
+c. Percentual de utilizacao da CPU: 1
+
+d. Media throughput: 0
+
+e. Media turnaround: 2
+
+f. Media tempo de espera: 0
+
+g. Media tempo de resposta: 0
+
+h. Media troca de contexto: 0
+
+i. Numero de processos executados: 0
