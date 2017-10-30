@@ -8,18 +8,18 @@ public class Fork {
 	public int id;
 
 	public Fork(int id) {
-	    this.id = id;
+		this.id = id;
 	}
 
 	public int getId() {
-	    return id;
+		return id;
 	}
 
 	public boolean acquire() {
-	    return fork.tryAcquire();
+		return fork.tryAcquire();
 	}
 
 	public void release() {
-	    fork.release();
-	}	
+		fork.release();
+	}
 }
